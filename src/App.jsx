@@ -65,6 +65,7 @@ useEffect(()=>{
             ))}
           </div>
         </div>
+        <div><h1 className='text-[0.79rem] text-white '>&copy;Kartikesh</h1></div>
       </div>
 
     </TodoProvider>
